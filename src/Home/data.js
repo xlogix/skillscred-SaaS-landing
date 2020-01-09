@@ -3,7 +3,7 @@ export const header = [
     title: 'Developers',
     children: [
       {
-        title: 'Build your Skills', desc: 'View our learning resources', img: '/static/images/header/img_developers.svg', link: 'https://github.com/fnplus', top: '2px',
+        title: 'Build your Skills', desc: 'View our learning resources', img: 'https://gw.alipayobjects.com/zos/rmsportal/MrUQjZNOJhYJCSZZuJDr.svg', link: 'https://github.com/fnplus', top: '2px',
       },
     ],
   },
@@ -11,10 +11,10 @@ export const header = [
     title: 'Products',
     children: [
       {
-        title: 'Hackathons', desc: 'With Customised Problems', img: '/static/images/header/img_product_1.svg', link: '#',
+        title: 'Hackathons', desc: 'With Customised Problems', img: 'https://gw.alipayobjects.com/zos/rmsportal/zMeJnhxAtpXPZAUhUKJH.svg', link: '#',
       },
       {
-        title: 'Recruiting', desc: 'Access Skills & Portfolio', img: '/static/images/header/img_product_2.svg', link: '#',
+        title: 'Recruiting', desc: 'Access Skills & Portfolio', img: 'https://gw.alipayobjects.com/zos/rmsportal/qkNZxQRDqvFJscXVDmKp.svg', link: '#',
       },
     ],
   },
@@ -22,7 +22,7 @@ export const header = [
     title: 'Pricing',
     children: [
       {
-        title: 'Easy Subsciptions', desc: 'Hire Monthly or Quaterly', img: '/static/images/header/img_product_1.svg', link: '#',
+        title: 'Easy Subsciptions', desc: 'Hire Monthly or Quaterly', img: 'https://gw.alipayobjects.com/zos/rmsportal/VsVqfjYxPTJaFbPcZqMb.svg', link: '#',
       },
     ],
   },
@@ -30,7 +30,7 @@ export const header = [
     title: 'Get Started',
     children: [
       {
-        title: 'Request a Demo', desc: 'Talk to Us', img: '/static/images/header/img_get_started.svg', link: '#',
+        title: 'Request a Demo', desc: 'Talk to Us', img: 'https://gw.alipayobjects.com/zos/rmsportal/ruHbkzzMKShUpDYMEmHM.svg', link: '#',
       },
     ],
   },
@@ -38,30 +38,30 @@ export const header = [
 
 export const banner = [
   {
-    img: 'static/images/banner/img_banner_1.svg',
-    imgMobile: '/static/images/banner/img_banner_2.svg',
+    img: 'https://gw.alipayobjects.com/zos/rmsportal/cTyLQiaRrpzxFAuWwoDQ.svg',
+    imgMobile: 'https://gw.alipayobjects.com/zos/rmsportal/ksMYqrCyhwQNdBKReFIU.svg',
     className: 'seeconf-wrap',
     children: [
       { children: 'Whatever your business be', className: 'seeconf-en-name' },
       { children: 'Build Great Tech Teams', className: 'seeconf-title', tag: 'h1' },
-      { children: 'With Job-ready Developers', className: 'seeconf-cn-name' },
+      { children: 'With Job-ready Developers', className: 'seeconf-cn-name', tag: 'h2' },
       {
         children: 'Coming Soon',
         className: 'banner-button',
         tag: 'button',
         link: '#',
       },
-      { children: 'This Summer', className: 'seeconf-time' },
+      { children: '', className: 'seeconf-time' },
     ],
   },
   {
-    img: 'file:///static/images/banner/img_banner_1.svg',
-    imgMobile: 'file:///static/images/banner/img_banner_2.svg',
+    img: 'https://gw.alipayobjects.com/zos/rmsportal/cTyLQiaRrpzxFAuWwoDQ.svg',
+    imgMobile: 'https://gw.alipayobjects.com/zos/rmsportal/ksMYqrCyhwQNdBKReFIU.svg',
     className: 'seeconf-wrap',
     children: [
       { children: 'Whatever your business be', className: 'seeconf-en-name' },
       { children: 'Build Great Tech Teams', className: 'seeconf-title', tag: 'h1' },
-      { children: 'With Job-ready Developers', className: 'seeconf-cn-name' },
+      { children: 'With Job-ready Developers', className: 'seeconf-cn-name', tag: 'h2' },
       {
         children: 'Coming Soon',
         className: 'banner-button',
@@ -78,22 +78,22 @@ export const page1 = {
     {
       title: 'Customised Project-based Tasks',
       content: 'Whatever skills you need for your business',
-      src: 'static/images/page1/img_page1_1.svg',
+      src: 'https://gw.alipayobjects.com/zos/rmsportal/KtRzkMmxBuWCVjPbBgRY.svg',
       color: '#EB2F96',
       shadowColor: 'rgba(166, 55, 112, 0.08)',
-      // link: 'https://antv.alipay.com/zh-cn/vis/index.html',
+      // link: 'https://',
     },
     {
       title: 'View Detailed Learning Journeys',
       content: 'Verify skills, code-quality & depth of knowledge',
-      src: '/static/images/page1/img_page1_2.svg',
+      src: 'https://gw.alipayobjects.com/zos/rmsportal/qIcZMXoztWjrnxzCNTHv.svg',
       color: '#1890FF',
       shadowColor: 'rgba(15, 93, 166, 0.08)',
     },
     {
       title: 'Browse Credible Skill-reports',
       content: 'Look Beyond CVs & ',
-      src: 'static/images/page1/img_page1_3.svg',
+      src: 'https://gw.alipayobjects.com/zos/rmsportal/eLtHtrKjXfabZfRchvVT.svg',
       color: '#AB33F7',
       shadowColor: 'rgba(112, 73, 166, 0.08)',
     },

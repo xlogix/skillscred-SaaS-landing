@@ -33,7 +33,8 @@ const pageData = [
   {
     title: 'L&D Partner',
     content: 'L&D-As-A-Service, A complete solution for employee-centric businesses',
-    links: (<a href="https://www.fnplus.tech/product" target="_blank">Learn More&nbsp;&nbsp;<Icon type="right" />
+    links: (<a href="https://www.fnplus.tech/product" target="_blank">Learn More&nbsp;&nbsp;
+      <Icon type="right" />
     </a>),
     full: true,
     Bg: Building,
