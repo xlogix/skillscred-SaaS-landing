@@ -42,7 +42,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
     "expect": "^24.9.0",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "pre-commit": "^1.2.2",
     "redbox-react": "^1.6.0"
   },
